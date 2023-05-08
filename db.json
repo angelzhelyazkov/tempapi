@@ -1,0 +1,25 @@
+{
+	"countries": [
+		{ 
+			"id": 1,
+			"countrycode": "BG",
+			"country": "Bulgaria",
+			"zip": "9000",
+			"city": "Varna"
+		},
+		{ 
+			"id": 2,
+			"countrycode": "BG",
+			"country": "Bulgaria",
+			"zip": "9000",
+			"city": "Veliko Tyrnovo"
+		},
+		{ 
+			"id": 3,
+			"countrycode": "DE",
+			"country": "Germany",
+			"zip": "1000",
+			"city": "Munich"
+		},
+	]
+}
