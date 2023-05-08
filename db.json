@@ -1,5 +1,5 @@
 {
-	"countries": [
+	"locations": [
 		{ 
 			"id": 1,
 			"countrycode": "BG",
