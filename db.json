@@ -11,7 +11,7 @@
 			"id": 2,
 			"countrycode": "BG",
 			"country": "Bulgaria",
-			"zip": "9000",
+			"zip": "2000",
 			"city": "Veliko Tyrnovo"
 		},
 		{ 
@@ -25,7 +25,7 @@
 			"id": 4,
 			"countrycode": "AT",
 			"country": "Austria",
-			"zip": "2000",
+			"zip": "3000",
 			"city": "Vienna"
 		}
 	]
