@@ -4,28 +4,28 @@
 			"id": 1,
 			"countrycode": "BG",
 			"country": "Bulgaria",
-			"zip": "9000",
+			"postcode": "9000",
 			"city": "Varna"
 		},
 		{ 
 			"id": 2,
 			"countrycode": "BG",
 			"country": "Bulgaria",
-			"zip": "2000",
+			"postcode": "2000",
 			"city": "Veliko Tyrnovo"
 		},
 		{ 
 			"id": 3,
 			"countrycode": "DE",
 			"country": "Germany",
-			"zip": "1000",
+			"postcode": "1000",
 			"city": "Munich"
 		},
 		{
 			"id": 4,
 			"countrycode": "AT",
 			"country": "Austria",
-			"zip": "3000",
+			"postcode": "3000",
 			"city": "Vienna"
 		}
 	]
