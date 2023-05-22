@@ -28,5 +28,49 @@
 			"postcode": "3000",
 			"city": "Vienna"
 		}
+	],
+	"packagingType": [
+		{
+			"id": 1,
+			"name": "Paketversand",
+			"price": 4.00,
+			"active": true,
+			"locations": [1,2,3]
+		},
+		{
+			"id": 2,
+			"name": "SKI/Snowboard Versand",
+			"price": 7.00,
+			"active": true,
+			"locations": [1,3]
+		},
+		{
+			"id": 3,
+			"name": "Reifenversand",
+			"price": 12.00,
+			"active": true,
+			"locations": [2]
+		},
+		{
+			"id": 4,
+			"name": "Expressversand",
+			"price": null,
+			"active": false,
+			"locations": []
+		},
+		{
+			"id": 5,
+			"name": "Bike shipping",
+			"price": null,
+			"active": false,
+			"locations": []
+		},
+		{
+			"id": 6,
+			"name": "Pallet shipping",
+			"price": null,
+			"active": false,
+			"locations": []
+		}
 	]
 }
