@@ -29,7 +29,7 @@
 			"city": "Vienna"
 		}
 	],
-	"packagingType": [
+	"packagingtypes": [
 		{
 			"id": 1,
 			"name": "Paketversand",
