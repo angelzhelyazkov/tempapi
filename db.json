@@ -49,7 +49,7 @@
 			"name": "Reifenversand",
 			"price": 12.00,
 			"active": true,
-			"locations": [2]
+			"locations": [1,2]
 		},
 		{
 			"id": 4,
